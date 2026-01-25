@@ -1,5 +1,4 @@
 # SVM Panel - VPS Management System
-***Made by PowerDev***
 
 A comprehensive web-based VPS management panel built with Flask and LXC/LXD.
 
@@ -440,4 +439,4 @@ This project is proprietary software. All rights reserved.
 
 **SVM Panel** - Professional VPS Management Solution 
 
-**Made by PowerDev**
+**Credit:-PowerDev**
