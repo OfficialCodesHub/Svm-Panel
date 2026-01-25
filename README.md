@@ -54,6 +54,8 @@ A comprehensive web-based VPS management panel built with Flask and LXC/LXD.
 
 ```bash
 # Download the panel
+apt install unzip
+unzip Svm.zip
 cd /opt
 git clone <repository-url> svm_panel
 cd svm_panel
