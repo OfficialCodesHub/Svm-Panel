@@ -442,4 +442,4 @@ This project is proprietary software. All rights reserved.
 
 **SVM Panel** - Professional VPS Management Solution 
 
-**Credit:-PowerDev**
+
